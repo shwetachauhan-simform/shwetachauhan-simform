@@ -4,7 +4,7 @@
 
 - 👩‍💻 Developer with more then 5 years experience
 - 🔭 I’m currently working on Android
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Flutter unit testing
 - 💬 Ask me about Android and Flutter
 - ⚡ Fun fact: Keep Learning
 
