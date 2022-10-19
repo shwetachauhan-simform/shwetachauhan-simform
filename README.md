@@ -27,11 +27,11 @@
 <p><a href="https://shwetachauhan655.medium.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
-<img height="135px" src="https://github-readme-stats.vercel.app/api?username=shwetachauhan-simform&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+<img height="135px" src="https://github-readme-stats.vercel.app/api?username=shwetachauhan-simform&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=default" />
 
 <p align="left">
   <a href="https://github.com/shwetachauhan-simform"><span>
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shwetachauhan-simform&theme=radical" />
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shwetachauhan-simform&theme=default" />
     </span></a>
 </p>
 </div>
