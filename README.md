@@ -7,6 +7,8 @@
 - 🌱 I’m currently learning Flutter unit testing
 - 💬 Ask me about Android and Flutter
 - ⚡ Fun fact: Keep Learning
+- 🔥 Active open-source contributor
+- My another account: https://github.com/ShwetaChauhan18
 
 
 ### 📫 How to reach me:
